@@ -4,6 +4,8 @@
 
 Addon that allows you to import  multiple FBX files with regular Blender import menu
 
+![muimportFBX](https://raw.githubusercontent.com/chombor/pyb/master/img/muimportFBX.jpg)
+
 ## muimportFBX_script.py
 
 Script that allows you to import of any *.fbx* files from the "**FBX**" folder in your *%USERNAME%/Desktop* directory
