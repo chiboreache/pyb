@@ -4,7 +4,7 @@
 
 Addon that allows you to import  multiple FBX files with regular Blender import menu
 
-![muimportFBX](/img/muimportFBX.jpg | width 460)
+![muimportFBX](/img/muimportFBX.jpg | width=460)
 
 ## muimportFBX_script.py
 
